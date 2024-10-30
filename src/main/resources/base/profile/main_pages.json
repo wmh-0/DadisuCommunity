@@ -1,0 +1,12 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/homePage",
+    "pages/Start",
+    "pages/GameLeaf",
+    "pages/Muyu",
+    "pages/Game",
+    "pages/Home",
+    "pages/MyTieZi"
+  ]
+}
